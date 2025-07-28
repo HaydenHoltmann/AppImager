@@ -1,0 +1,6 @@
+/build
+/Unused_classes
+/CMakeFiles
+
+CMakeCache.txt
+CMakeLists.txt.user
